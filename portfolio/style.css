@@ -186,4 +186,7 @@ label {
 footer {
     position: relative;
     top: 110px;
+    display: flex;
+    justify-content: space-between;
+
 }
