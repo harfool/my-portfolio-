@@ -162,30 +162,34 @@ li a:hover {
     justify-content: space-around;
     width: 90vw;
     margin-top: auto;
-    height: 70vh;
-    margin-top:1em ;
+    height: 55vh;
+    margin-top:.5em ;
 }
 
 form {
     margin-top: 15px;
-    padding: 10px;
+    padding: 5px;
     font-size: 1.2em;
-    border: 2px solid grey;
+    border: 1px dashed grey;
     border-radius: 10px;
 }
 
 label {
     font-weight: bold;
+    font-size: 1em;
 }
 
 .text {
-    font-size: 2.3em;
+    font-size: 1.5em;
+    
 }
 
 /* Footer Section */
 footer {
     position: relative;
+    margin-top: 1em;
     top: 110px;
+    left: 90px;
     display: flex;
     justify-content: space-between;
 
